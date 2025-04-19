@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Términos de Servicio - XERO Store</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Términos de Servicio</h1>
+    <p>Última actualización: [Fecha]</p>
+    
+    <h2>1. Aceptación de los términos</h2>
+    <p>Al acceder y utilizar la aplicación XERO Store, aceptas estar sujeto a estos términos de servicio.</p>
+    
+    <h2>2. Uso de la aplicación</h2>
+    <p>Te comprometes a utilizar la aplicación solo para fines legales y de acuerdo con estos términos.</p>
+    
+    <h2>3. Cuentas de usuario</h2>
+    <p>Eres responsable de mantener la confidencialidad de tu cuenta y contraseña. Debes notificarnos inmediatamente sobre cualquier uso no autorizado de tu cuenta.</p>
+    
+    <h2>4. Propiedad intelectual</h2>
+    <p>Todo el contenido y la funcionalidad de la aplicación son propiedad de XERO Store y están protegidos por leyes de propiedad intelectual.</p>
+    
+    <h2>5. Limitación de responsabilidad</h2>
+    <p>XERO Store no será responsable por daños indirectos, incidentales o consecuentes que resulten del uso o la imposibilidad de usar la aplicación.</p>
+    
+    <h2>6. Modificaciones de los términos</h2>
+    <p>Nos reservamos el derecho de modificar estos términos en cualquier momento. Los cambios entrarán en vigor inmediatamente después de su publicación en la aplicación.</p>
+    
+    <h2>7. Contacto</h2>
+    <p>Si tienes preguntas sobre estos términos, contáctanos en: [tu-correo@ejemplo.com]</p>
+</body>
+</html>
